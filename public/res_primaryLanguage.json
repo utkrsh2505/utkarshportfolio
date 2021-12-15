@@ -1,0 +1,92 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Utkarsh Kumar. Fictional person for preview purposes :) I'm working with newest front-end frameworks like  React .I have done 2 collaboration project which was a group of 3 members.These projects helps me  to learn lot more things like how to work in team, jhow to collaborate with each other. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": " Clone Of Smatbot",
+       
+        "description": "SmatBot is a conversational bot building platform to create customizable chatbots for Lead generation, Live chat support, Interactive Landing Pages, Surveys, Enquiries, Appointments, Feedback and Suggestions for your business.",
+        "images": [
+          "images/portfolio/SmatBot/p1.png",
+          "images/portfolio/SmatBot/p2.png"
+        ],
+        "url": "https://github.com/suchita11/Smatbot1.git",
+        "url1": "https://clone-smatbot.netlify.app/",
+
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "CLONE OF BBC NEWS",
+      
+        "description": "BBC News is an operational business division of the British Broadcasting Corporation responsible for the gathering and broadcasting of news.",
+        "images": [
+          "images/portfolio/bbc/p1.png",
+          "images/portfolio/bbc/p2.png"
+        ],
+        "url": "https://github.com/shreevalikushe/BBC_Clone.git",
+        "url1": "https://bbc-news-clone.netlify.app/",
+        "technologies": [
+         
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Food Search ",
+  
+        "description": "It is a food website through which user can search for food ",
+        "images": [
+          "images/portfolio/Food/p1.png",
+          "images/portfolio/Food/p2.png"
+        ],
+        "url": "https://github.com/utkrsh2505/Foodapp.git",
+        "url1": "https://appfood-app.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ]
+  
+  }
