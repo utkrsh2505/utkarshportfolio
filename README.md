@@ -20,7 +20,7 @@ at GitHub. Check live preview(link below).
 
 Check live demonstration <a href="https://utkarshportfolio.netlify.app/"><strong>here</strong></a>
 
-<img width="100%" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
+![Screenshot (374)](https://user-images.githubusercontent.com/74674737/146384556-1e931312-85a7-4397-b279-6f7c0440fdeb.png)
 
 <h3>:books: Getting started</h3>
 
@@ -127,4 +127,4 @@ If you have any suggestions on what to improve in <em>react-frontend-dev-portfol
 
 
 
-![Screenshot (372)](https://user-images.githubusercontent.com/74674737/146384154-84749df4-3f76-4dc6-94f6-79677fb35c13.png)
+
