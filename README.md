@@ -1,4 +1,4 @@
-<img width="80%" align="center" src="https://github.com/utkrsh2505/utkarshportfolio/blob/images/images/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
+![Untitled design (1)](https://user-images.githubusercontent.com/74674737/146569015-6dfe0349-ac78-4a19-aafe-afb4991ad0e7.png) <br/>
 <img height="350px" align="right" src="https://github.com/utkrsh2505/utkarshportfolio/blob/images/images/mobile-demo.gif" alt="portfolio mobile demo gif"/>
 
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
@@ -123,6 +123,7 @@ homepage property or json data won't load.
 If you have any suggestions on what to improve in <em>react-frontend-dev-portfolio</em> and would like to share them, feel free to leave an issue or fork project to implement your own ideas :slightly_smiling_face:
 
 <h3>:camera: Credits(images)</h3>
+
 
 
 
