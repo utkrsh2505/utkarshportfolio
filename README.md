@@ -1,4 +1,4 @@
-![Untitled design (1)](https://user-images.githubusercontent.com/74674737/146569015-6dfe0349-ac78-4a19-aafe-afb4991ad0e7.png) <br/>
+<img widdth="400px src="https://user-images.githubusercontent.com/74674737/146569015-6dfe0349-ac78-4a19-aafe-afb4991ad0e7.png"/> <br/>
 <img height="350px" align="right" src="https://github.com/utkrsh2505/utkarshportfolio/blob/images/images/mobile-demo.gif" alt="portfolio mobile demo gif"/>
 
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
